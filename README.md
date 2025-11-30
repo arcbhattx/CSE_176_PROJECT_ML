@@ -10,6 +10,8 @@
 
 **Algorithms:** Logistic Regression, Random Forests
 
+**Report**: https://docs.google.com/document/d/11H_V5Dt8L9OjlyxI7vuD6hI3BihrA0T2glGX6NECCoM/edit?tab=t.0 
+
 
 ## Part 2
 
@@ -18,3 +20,22 @@
 **Task:** multiclass classification
 
 **Algorithms:** XGBoost
+
+**Report**: https://docs.google.com/document/d/1mVl37_hGUTYNi_YjoP3VlAAlZjfYv-viGfFaTtKOawY/edit?tab=t.0 
+
+## Part 3
+
+
+**Datasets:** 
+
+**Regression** 
+
+social_media_vs_productivity.csv https://www.kaggle.com/datasets/mahdimashayekhi/social-media-vs-productivity?resource=download
+
+**Classification**
+
+https://www.kaggle.com/datasets/abhinand05/magic-gamma-telescope-dataset/data 
+
+**Algorithms**: https://github.com/neurodata/SPORF
+
+**Report**: https://docs.google.com/document/d/15_VRwObi3vJeuEmikYFmc5euNO2L9NCWi3zRgWstBks/edit?tab=t.0 
